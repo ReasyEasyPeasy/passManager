@@ -27,7 +27,7 @@ import (
 
 
 var cfgFile string
-var username string
+
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
